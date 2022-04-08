@@ -1,1 +1,1 @@
-This is afashionwebsite am working on. Make thiswith just css and html only
+This is a fashion website am working on. Make this with just css and html only
